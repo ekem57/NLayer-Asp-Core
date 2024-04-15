@@ -96,3 +96,6 @@ C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\Mi
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll

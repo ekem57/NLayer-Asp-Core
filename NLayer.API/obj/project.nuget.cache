@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Hgr7SypSFda2kPpUU228MgCnd+EAn06N9qs9le04w87yhlQ5hGZFlVyLhTwV3Be8ADnjsoQ8iX7yUax3lA2w+g==",
+  "dgSpecHash": "+y/GT5jEo5u9DBCaIMo2ZLSX8ii04NEOrxcPOc1DYG2O4vizAtR128gB0s4LvCoj5pNh1prsBj5gwXskRLKXMg==",
   "success": true,
   "projectFilePath": "C:\\Users\\HefaLab\\Documents\\GitHub\\NLayer-Asp-Core\\NLayer.API\\NLayer.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HefaLab\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\HefaLab\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\HefaLab\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\HefaLab\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.6\\fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
+    "C:\\Users\\HefaLab\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
     "C:\\Users\\HefaLab\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HefaLab\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\HefaLab\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
