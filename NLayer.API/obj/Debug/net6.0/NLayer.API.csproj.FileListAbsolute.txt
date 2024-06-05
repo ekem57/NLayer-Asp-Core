@@ -99,3 +99,11 @@ C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\Mi
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\FluentValidation.dll
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\Autofac.dll
+C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\NLayer.Caching.dll
+C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\NLayer.Caching.pdb
