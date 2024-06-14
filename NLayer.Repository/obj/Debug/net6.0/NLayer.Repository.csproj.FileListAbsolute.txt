@@ -9,9 +9,10 @@ C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.Repository\obj\Debug\ne
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.AssemblyInfoInputs.cache
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.AssemblyInfo.cs
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.CoreCompileInputs.cache
-C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.CopyComplete
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.dll
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.Repository\obj\Debug\net6.0\refint\NLayer.Repository.dll
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.pdb
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.genruntimeconfig.cache
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.Repository\obj\Debug\net6.0\ref\NLayer.Repository.dll
+C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.sourcelink.json
+C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.Repository\obj\Debug\net6.0\NLayer.R.11436BBB.Up2Date

@@ -16,4 +16,5 @@ C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.Caching\bin\Debug\net6.
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.Caching\bin\Debug\net6.0\NLayer.Core.pdb
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.Caching\bin\Debug\net6.0\NLayer.Service.pdb
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.Caching\bin\Debug\net6.0\NLayer.Repository.pdb
-C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.csproj.CopyComplete
+C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.sourcelink.json
+C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.Caching\obj\Debug\net6.0\NLayer.C.BF8D253B.Up2Date

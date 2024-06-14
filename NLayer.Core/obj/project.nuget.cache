@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "NXo6bgM5ipvT3RFO/VmMAQqA5UhpxjjrnzM0EKmY45msTAj64IgVBir82/zo0NSSV3m82lPKXkPS4F8XaLJvTA==",
+  "dgSpecHash": "lSjDsRzU9Gc=",
   "success": true,
   "projectFilePath": "C:\\Users\\HefaLab\\Documents\\GitHub\\NLayer-Asp-Core\\NLayer.Core\\NLayer.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\HefaLab\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\HefaLab\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\HefaLab\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }

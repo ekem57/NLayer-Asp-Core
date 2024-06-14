@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zlRQUwsY5BAbXnTplH0gDIrd9lEIQ3VsC9D0tq4BH8wKyd+tvx7GVI1YlYcg59tm5OA9965sRSNCIZXoESxPHA==",
+  "dgSpecHash": "YoiQRz+9Kng=",
   "success": true,
   "projectFilePath": "C:\\Users\\HefaLab\\Documents\\GitHub\\NLayer-Asp-Core\\NLayer.Caching\\NLayer.Caching.csproj",
   "expectedPackageFiles": [
@@ -48,7 +48,10 @@
     "C:\\Users\\HefaLab\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\HefaLab\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\HefaLab\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
-    "C:\\Users\\HefaLab\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+    "C:\\Users\\HefaLab\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\HefaLab\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\HefaLab\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\HefaLab\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512"
   ],
   "logs": []
 }
