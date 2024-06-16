@@ -10,6 +10,7 @@ using NLayer.Web.Modules;
 using FluentValidation.AspNetCore;
 using NLayer.Service.Validations;
 using NLayer.Web;
+using NLayer.Web.Services;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -18,6 +19,17 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews().AddFluentValidation(x => x.RegisterValidatorsFromAssemblyContaining<ProductDtoValidator>()); 
 builder.Services.AddAutoMapper(typeof(MapProfile));
 builder.Services.AddScoped(typeof(NotFoundFilter<>));
+
+builder.Services.AddHttpClient<ProductApiService>(options =>
+{
+    options.BaseAddress = new Uri(builder.Configuration["BaseUrl"]);
+});
+
+builder.Services.AddHttpClient<CategoryApiService>(options =>
+{
+    options.BaseAddress = new Uri(builder.Configuration["BaseUrl"]);
+});
+
 builder.Services.AddDbContext<AppDbContext>(x =>
 {
     x.UseSqlServer(builder.Configuration.GetConnectionString("SqlConnection"), option =>

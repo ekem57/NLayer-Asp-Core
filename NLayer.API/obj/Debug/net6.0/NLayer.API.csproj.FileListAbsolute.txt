@@ -85,7 +85,6 @@ C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\obj\Debug\net6.0\NL
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\obj\Debug\net6.0\scopedcss\bundle\NLayer.API.styles.css
-C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\obj\Debug\net6.0\NLayer.API.csproj.CopyComplete
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\obj\Debug\net6.0\NLayer.API.dll
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\obj\Debug\net6.0\refint\NLayer.API.dll
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\obj\Debug\net6.0\NLayer.API.pdb
@@ -107,3 +106,10 @@ C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\Mi
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\NLayer.Caching.dll
 C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\bin\Debug\net6.0\NLayer.Caching.pdb
+C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\obj\Debug\net6.0\NLayer.API.sourcelink.json
+C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\obj\Debug\net6.0\staticwebassets\msbuild.NLayer.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\obj\Debug\net6.0\staticwebassets\msbuild.build.NLayer.API.props
+C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NLayer.API.props
+C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NLayer.API.props
+C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HefaLab\Documents\GitHub\NLayer-Asp-Core\NLayer.API\obj\Debug\net6.0\NLayer.API.csproj.Up2Date
