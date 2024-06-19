@@ -44,7 +44,7 @@ namespace NLayer.Service.Services
             await _repository.AddRangeAsync(entities);
             await _unitOfWork.CommitAsync();
             var entitiesDtos = _mapper.Map<IEnumerable<Dto>>(entities);
-            return CustomResponseDto<Dto>.Succes(StatusCodes.Status200OK, entitiesDtos);
+            return CustomResponseDto<IEnumerable<Dto>>.Succes(StatusCodes.Status200OK, entitiesDtos);
         }
 
         public async Task<CustomResponseDto<bool>> AnyAsync(Expression<Func<Entity, bool>> expression)

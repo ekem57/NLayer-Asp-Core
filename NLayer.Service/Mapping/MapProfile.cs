@@ -19,6 +19,7 @@ namespace NLayer.Service.Mapping
             CreateMap<ProductUpdateDto, Product>();
             CreateMap<Product, ProductWithCategoryDto>();
             CreateMap<Category, CategoryWithProductDto>();
+            CreateMap<ProductCreatedDto, Product>();
 
         }
     }
